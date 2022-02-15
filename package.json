@@ -1,0 +1,15 @@
+{
+    "name": "music-database-crud",
+    "version": "1.0.0",
+    "description": "",
+    "main": "musicDatabaseCRUD.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Andres Roldan",
+    "license": "ISC",
+    "dependencies": {
+      "mysql": "^2.16.0"
+    }
+  }
+  
