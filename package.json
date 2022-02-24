@@ -4,6 +4,7 @@
   "description": "",
   "main": "music-database.js",
   "scripts": {
+    "start": "node music-database.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Andres Roldan",
